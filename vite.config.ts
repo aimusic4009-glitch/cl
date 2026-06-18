@@ -8,6 +8,6 @@ export default defineConfig({
   },
   server: {
     host: true,
-    allowedHosts: ['.vercel.run'],
+    allowedHosts: ['.all.run'],
   },
 });
